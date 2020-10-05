@@ -1,3 +1,3 @@
 # Reusable component library
 
-create a component library with React and Emotion
+create a component library with React and Emotion in Storybook
